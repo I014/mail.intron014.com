@@ -1,0 +1,32 @@
+body{
+    background: #171E28;
+    color: white;
+    font-family: 'Roboto Mono', monospace;
+    font-size: large;}
+.text{
+    color: #FCF7F8;
+    font-family: 'Roboto Mono', monospace;
+    font-size: large;
+    position: absolute;
+    left: 35%;
+    top: 50%;
+}
+a {
+    text-decoration: none;
+    color: #FCF7F8
+}
+a:visited {
+    color: #FCF7F8;
+}
+.footerPlaceHolder {
+    position: absolute;
+    bottom: 0;
+    width: 99vw;
+}
+.copyright{
+    color: grey;
+    text-align: center;
+    position: relative;
+    bottom: 3px;
+    font-size: x-small;
+}
